@@ -11,4 +11,5 @@ while True:
     proxy.print_memory(mem.percent)
 
     #wacht 1 seconde en stuur opnieuw
+
     time.sleep(1)
